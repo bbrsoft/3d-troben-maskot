@@ -19,3 +19,5 @@
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/helmet2.png)
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/3D%20Clay%20Mesh.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/6.png)
