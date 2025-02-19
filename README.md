@@ -25,3 +25,5 @@
 # CHIBI Style
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%201.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%202.png)
