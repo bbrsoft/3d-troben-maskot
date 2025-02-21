@@ -8,6 +8,8 @@
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/3.png)
 
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/7.png)
+
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/4.png)
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/5.png)
