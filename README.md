@@ -30,6 +30,8 @@
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%202.png)
 
+# Cartoon Style
+
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%203.png)
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%204.png)
