@@ -24,6 +24,6 @@
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/6.png)
 
-# Cartoon Style
+# Chibi Style
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%201.png)
