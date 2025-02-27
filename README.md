@@ -27,3 +27,15 @@
 # Chibi Style
 
 ![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%201.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%202.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%203.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%204.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%205.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%206.png)
+
+![Alt text](https://github.com/bbrsoft/3d-troben-maskot/blob/main/cb%207.png)
